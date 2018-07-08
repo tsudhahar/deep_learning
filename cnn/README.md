@@ -17,7 +17,7 @@ The for me easiest way to understand a *convolution* is by thinking of it as a
 sliding window function applied to a matrix. That’s a mouthful, but it becomes
 quite clear looking at a visualization:
 
-![http://deeplearning.stanford.edu/wiki/images/6/6c/Convolution_schematic.gif](media/6428cf505ac1e9e1cf462e1ec8fe9a68.gif)
+!(http://deeplearning.stanford.edu/wiki/images/6/6c/Convolution_schematic.gif)(media/6428cf505ac1e9e1cf462e1ec8fe9a68.gif)
 
   
 *Fig.1 Convolution with 3×3 Filter. Source:
