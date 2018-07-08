@@ -17,7 +17,7 @@ The for me easiest way to understand a *convolution* is by thinking of it as a
 sliding window function applied to a matrix. That’s a mouthful, but it becomes
 quite clear looking at a visualization:
 
-![http://deeplearning.stanford.edu/wiki/images/6/6c/Convolution_schematic.gif](media/6428cf505ac1e9e1cf462e1ec8fe9a68.gif)
+![alt](http://deeplearning.stanford.edu/wiki/images/6/6c/Convolution_schematic.gif)
 
   
 *Fig.1 Convolution with 3×3 Filter. Source:
@@ -38,11 +38,11 @@ intuitive examples.
 
  
 
-![http://docs.gimp.org/en/images/filters/examples/convolution-blur.png](media/3b7ca8d6b2802e64899cbaa2952a3882.png)
+![alt](http://docs.gimp.org/en/images/filters/examples/convolution-blur.png}
 
  
 
-![http://docs.gimp.org/en/images/filters/examples/generic-taj-convmatrix-blur.jpg](media/7b113f082b2c42c85ec38875c302a217.jpg)
+![alt](http://docs.gimp.org/en/images/filters/examples/generic-taj-convmatrix-blur.jpg)
 
 **Taking the difference between a pixel and its neighbors detects edges:**
 
