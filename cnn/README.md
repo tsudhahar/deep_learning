@@ -38,7 +38,7 @@ intuitive examples.
 
  
 
-![alt](http://docs.gimp.org/en/images/filters/examples/convolution-blur.png}
+![alt](http://docs.gimp.org/en/images/filters/examples/convolution-blur.png)
 
  
 
