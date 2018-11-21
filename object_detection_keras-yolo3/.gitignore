@@ -1,0 +1,17 @@
+*.jpg
+*.png
+*.weights
+*.h5
+logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.*.swp
+
+kaggle*.txt
+train.txt
+VOCdevkit
+open-images-dataset
+*.csv
